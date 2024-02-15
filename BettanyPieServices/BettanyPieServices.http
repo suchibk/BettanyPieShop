@@ -1,0 +1,6 @@
+@BettanyPieServices_HostAddress = http://localhost:5159
+
+GET {{BettanyPieServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
